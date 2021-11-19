@@ -1,0 +1,24 @@
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[aslampr07@Aslam-PC gittutorial]$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.txt
+        world.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[aslampr07@Aslam-PC gittutorial]$ git add hello.txt
+[aslampr07@Aslam-PC gittutorial]$ git status^C
+[aslampr07@Aslam-PC gittutorial]$ 
+
